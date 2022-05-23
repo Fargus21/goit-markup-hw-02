@@ -89,13 +89,10 @@ body{
     color: var(--header-color);
 }
 .btn-hero {
-    font-family: inherit, sans-serif;
+    font-family: inherit;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
-    display: flex;
-    align-items: center;
-    text-align: center;
     letter-spacing: 0.06em;
     cursor: pointer;
     background-color: var(--logo-btn-color);
@@ -155,7 +152,7 @@ body{
     color: var(--primary-text-color); 
 }
 .team-position {
-    line-height: 19px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
@@ -219,7 +216,7 @@ body{
     list-style: none;
 }
 .btn-all {
-    font-family: inherit, sans-serif;
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -235,7 +232,7 @@ body{
     color: var(--header-color)
 }
 .btn-web {
-    font-family: inherit, sans-serif;
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -251,7 +248,7 @@ body{
     color: var(--header-color)
 }
 .btn-app {
-    font-family: inherit, sans-serif;
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -267,7 +264,7 @@ body{
     color: var(--header-color)
 }
 .btn-desighn {
-    font-family: inherit, sans-serif;
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -283,7 +280,7 @@ body{
     color: var(--header-color)
 }
 .btn-marketing {
-    font-family: inherit, sans-serif;
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
