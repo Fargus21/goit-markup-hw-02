@@ -42,6 +42,7 @@ body{
     text-decoration: none;
 }
 .heading-link:hover,
+.heading-link:active,
 .heading-link:focus {
     color: var(--logo-btn-color);
 }
