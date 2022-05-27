@@ -33,6 +33,12 @@ body{
 .heading-item {
     list-style: none;
 }
+.portfolio-vis:visited {
+    color:var(--logo-btn-color);
+}
+.heading-vis:visited {
+    color: var(--logo-btn-color);
+}
 .heading-link {
     font-weight: 500;
     font-size: 14px;
@@ -42,7 +48,6 @@ body{
     text-decoration: none;
 }
 .heading-link:hover,
-.heading-link:active,
 .heading-link:focus {
     color: var(--logo-btn-color);
 }
